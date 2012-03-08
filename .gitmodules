@@ -1,0 +1,3 @@
+[submodule "library/Crud"]
+	path = library/Crud
+	url = git@github.com:ishi/zf-crud-extension.git
